@@ -1,4 +1,8 @@
-[![LG WebOS Display configuration general 1](http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png)](http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png)
+[![LG logo](http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png)](http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png)
+
+<img src='http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png' alt='LG logo' width='1000'/>
+
+![LG_logo_2015](http://kb.savicontrols.com/wp-content/uploads/2020/10/2560px-LG_logo_2015.svg.png)
 
 # LG WebOS Displays
 
