@@ -39,3 +39,11 @@ function print() {
 * bullet
   * bullet
     * bullet
+      * bullet
+* bullet
+  * bullet
+    * bullet
+  * bullet
+* bullet 
+  * bullet
+    * bullet
