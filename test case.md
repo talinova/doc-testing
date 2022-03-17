@@ -1,0 +1,9 @@
+<div class="supTabControlHeader" role="tablist" ms.pagearea="Body" ms.cmpgrp="tabs" ms.interactiontype="11" ms.defaulttab="WindowsVersion,1" ms.activetab="WindowsVersion,3" style="overflow: hidden;">
+  <a href="javascript:" role="tab" data-bi-bhvr="TAB" targeted-os="" targeted-office-version="" targeted-windows-version="" tab-hash="WindowsVersion=Windows_11" referenced-content-position="1" aria-label="Windows 11" id="WindowsVersion-supTabControlHeader-1" class="supTabControlTabHeader" name="windowsversion=windows_11" aria-selected="false" ms.cmpgrp="content" ms.pgarea="Body">Windows 11</a>
+  <a href="javascript:" role="tab" data-bi-bhvr="TAB" targeted-os="" targeted-office-version="" targeted-windows-version="" tab-hash="WindowsVersion=Windows_10_November_2021_Update" referenced-content-position="2" aria-label="Windows 10 November 2021 Update" id="WindowsVersion-supTabControlHeader-2" class="supTabControlTabHeader" name="windowsversion=windows_10_november_2021_update" aria-selected="false" ms.cmpgrp="content" ms.pgarea="Body">Windows 10 November 2021 Update</a>
+  <a href="javascript:" role="tab" data-bi-bhvr="TAB" targeted-os="" targeted-office-version="" targeted-windows-version="" tab-hash="WindowsVersion=Windows_10" referenced-content-position="3" aria-label="Windows 10" id="WindowsVersion-supTabControlHeader-3" class="supTabControlTabHeader supTabControlHeaderActive" name="windowsversion=windows_10" aria-selected="true" ms.cmpgrp="content" ms.pgarea="Body">Windows 10</a>
+    <div class="supTabControlOverflowDropdown ocHidden" data-bi-area="tabs"><a class="supTabControlOverflowDropdownIcon" href="javascript:" ms.cmpgrp="content" ms.pgarea="Body" aria-label="More tabs dropdown. Collapsed. Press the Enter key to expand dropdown."></a>
+      <div class="supTabControlOverflowDropdownContent ocHidden"><!--Don't remove this comment, otherwise broken div element is created.-->
+      </div>
+    </div>
+</div>
